@@ -12,21 +12,17 @@
 - The seeder above will generate the following user accounts:
 
 Manager Account:
-
-username: manager
-password: password
-
+<p>username: manager</p>
+<p>password: password</p>
 
 Web Developer:
-
-username: web_developer
-password: password
+<p>username: web_developer</p>
+<p>password: password</p>
 
 
 Web Designer:
-
-username: web_designer
-password: password
+<p>username: web_designer</p>
+<p>password: password</p>
 
 
 -It will also generate 10 Employees
