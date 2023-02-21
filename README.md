@@ -1,9 +1,9 @@
 
 ## Installation and Setup
 - clone this repo https://github.com/rcmadeloso/rc-tri7.git
-- run composer install
-- run npm install
-- run npm run dev
+- run <strong>composer install</strong>
+- run <strong>npm install</strong>
+- run <strong>npm run dev</strong>
 - create your own .env file with your own database
 - run php artisan migrate:fresh --seed 
 
@@ -32,6 +32,6 @@ password: password
 
 
 ## Running the Application
-- run php artisan serve
+- run <strong>php artisan serve</strong> 
 - go to chrome or any browser and access  [http://127.0.0.1:8000] or your localhost
 - login to any of the account and you will be redirected to the dashboard
