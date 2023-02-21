@@ -1,0 +1,18 @@
+Question 1
+Answer is 2 -- just the opposite of the pattern on the first line.
+
+
+Question 2 
+Answer is 2 , -- following the same pattern logic as the 2nd line (circles), the shape should go from small to big.
+
+
+Question 3 
+Answer is 3 , -- 1st square(3) must be placed on the right, 2nd square must be placed on the left which will result into the image.
+
+
+Question 4 
+Answer is 4 , -- If we will the pattern on the images on the corners (Upper Left, Upper Right, Lower Left) -- Lower right should be 4.
+
+
+Question 5
+Answer is 3 , -- Pattern should follow the black circle (Down -> Middle -> Top)
